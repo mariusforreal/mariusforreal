@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariusforreal" alt="mariusforreal" /></a> </p>
 
-- 🔭 I’m currently working on **Enhancing my DevOps and Cloud Skills** :
+- 🔭 I’m currently working on **Enhancing my DevOps and Cloud Skills**:
   This repository addresses the growing challenges of deploying and managing applications in diverse cloud environments. Leveraging my extensive experience, I've implemented best practices and industry-standard        tools to create a robust DevOps pipeline that spans across popular cloud providers, including AWS, Azure, and Google Cloud.
 
-- 👯 I’m looking to collaborate on **Any Cloud and/or DevOps Projects** :
+- 👯 I’m looking to collaborate on **Any Cloud and/or DevOps Projects**:
   My extensive background as a Cloud and DevOps Engineer has been pivotal in designing and implementing this project. Having worked across various cloud platforms, I've gained insights into the nuances of each,         enabling me to create solutions that not only bridge the gap between them but also maximizes their individual strengths.
 
-- 🤝 I’m looking to help with **Any Cloud & DevOps projetcs** :
+- 🤝 I’m looking to help with **Any Cloud & DevOps projetcs**:
   Feel free to explore and contribute to these projects, as they reflects not only the best practices in Cloud & DevOps but also the culmination of years of practical experience in the ever-evolving landscape of cloud   computing.   Your feedback and contributions are highly valued as we collectively strive for excellence in multi-cloud DevOps.
 
 - 👨‍💻 All of my projects are available at [www.github.com/mariusforreal](www.github.com/mariusforreal)
